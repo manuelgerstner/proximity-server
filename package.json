@@ -1,0 +1,26 @@
+{
+  "name": "proximity-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "run-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/manuelgerstner/proximity-server.git"
+  },
+  "keywords": [
+    "spatial",
+    "deepstream"
+  ],
+  "author": "manuelgerstner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelgerstner/proximity-server/issues"
+  },
+  "homepage": "https://github.com/manuelgerstner/proximity-server#readme",
+  "dependencies": {
+    "deepstream.io": "^1.1.0"
+  }
+}
